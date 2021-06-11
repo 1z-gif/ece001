@@ -8,7 +8,7 @@
     <img src="22.png">
     <!--this photo discribes artificial intelligence-->
     <br>
-
+<p>
 <h2 style="color:blue;">"Links"</h2> 
 <ul>
   <li><a href="1.html">What is AI </a></li>
@@ -17,5 +17,6 @@
   <li><a href="5.html"</a>Future of AI </a></li>
   <li><a href="4.html"</a>More Readings</a></li>
 </ul>
+</p>
   </body>
 <html/>
