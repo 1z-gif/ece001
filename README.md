@@ -12,7 +12,7 @@
 <h2 style="color:blue;">"Links"</h2> 
 <ul>
   <li><a href="1.html">What is AI </a></li>
-  <li><a href="3.html"</a>History of AI </li>
+  <li><a href="3.html"</a>History of AI</a> </li>
   <li><a href="2.html"</a>Types and Applications of AI</a></li>
   <li><a href="5.html"</a>Future of AI </a></li>
   <li><a href="4.html"</a>More Readings</a></li>
